@@ -2,7 +2,7 @@
 
 ##The design of this game was inspired by a more complicated Tik Tok game.
 
-##The goal in this game is to build your city to a as high as possible level.
+##The goal in this game is to build your city to an as high as possible level.
 
 ##In the beginning, all areas are filled with raw materials (trees or stones). 
 ![image](https://github.com/jyalice/swan/blob/master/architect/img/show0.png)
